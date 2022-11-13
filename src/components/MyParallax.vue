@@ -17,7 +17,7 @@
 <script setup>
 const myProps = defineProps({
   headline: { type: String, default: "abc" },
-  background: { type: String, default: "dummy.jpg" },
+  background: { type: String, default: "" },
   //content: { type: String, default: "dummy.jpg" },
   items: {
     type: Array,
