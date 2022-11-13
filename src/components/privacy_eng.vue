@@ -1,5 +1,6 @@
 <template>
   <div id="privacy" class="text-white text-center q-px-xl q-mx-xl">
+    <h4 class="text-white q-ma-sm">Privacy</h4>
     <b>Data protection</b>
     <p>
       The use of this website (nekir.tech) is usually possible without providing

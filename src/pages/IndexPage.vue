@@ -52,6 +52,7 @@
   <privacy></privacy>
   <br /><br /><br /><br /><br />
   <div id="imprint" class="text-white text-center">
+    <h4 class="text-white q-ma-sm">Impressum - Legal Notice</h4>
     <p>
       <b>NekirTech UG (haftungsbeschränkt)</b>
       <br />
