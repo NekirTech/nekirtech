@@ -1,6 +1,6 @@
 <template>
   <q-parallax id="home" class="window-height">
-    <q-img src="Wortbildbarke_weiße_schrift.svg" style="width: 50%"></q-img>
+    <q-img src="Wortbildbarke_weisse_schrift.svg" style="width: 50%"></q-img>
   </q-parallax>
   <MyParallax
     id="skills"
@@ -14,7 +14,7 @@
     background="hardware.jpeg"
     :items="projects"
   ></MyParallax>
-  <q-parallax id="consultation" class="window-height">
+  <q-parallax src="grey-noise.png" id="consultation" class="window-height">
     <h4 class="text-white q-ma-sm">Free initial consultation</h4>
     <div class="q-pa-md" style="max-width: 400px">
       <q-form @submit="sendAxios" class="q-gutter-md" dark>
