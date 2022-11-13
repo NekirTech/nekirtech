@@ -9,6 +9,7 @@
         @click="toggleLeftDrawer"
         color="black"
         size="lg"
+        class="q-ma-md"
       />
     </q-header>
     <q-drawer v-model="leftDrawerOpen" show-if bordered dark>
