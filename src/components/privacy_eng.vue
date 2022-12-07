@@ -35,5 +35,48 @@
         >https://www.emailjs.com/legal/privacy-policy/</a
       >
     </p>
+    <b>Cloudflare</b>
+    <p>
+      We use the Content Delivery Network (CDN) provided by Cloudflare Germany
+      GmbH, Rosental 7, c/o Mindspace, 80331 München Deutschland (Cloudflare),
+      to improve security and delivery speed of our website. This corresponds to
+      our legitimate interest (Art. 6 para. 1 lit. f DSGVO). A CDN is a network
+      of [globally] distributed servers, that is able to deliver optimized
+      content to the website user. For this purpose, personal data may be
+      processed in server log files by Cloudflare.
+    </p>
+    <p>
+      Cloudflare is a recipient of your personal data and acts as a processor
+      for us. This corresponds to our legitimate interest within the meaning of
+      Art. 6 (1) p. 1 lit. f DSGVO, not to operate a content delivery network
+      ourselves.
+    </p>
+    <p>
+      You have the right to to object to the processing. Whether the objection
+      is successful is to be to be determined within the framework of a
+      balancing of interests.
+    </p>
+    <p>
+      The processing of the data specified under this section is not required by
+      law or by contract. prescribed. The functionality of the website is not
+      guaranteed without the processing.
+    </p>
+    <p>
+      Your personal data will be stored by Cloudflare as long as it is necessary
+      for the purposes described. For more information on objection and removal
+      options against Cloudflare can be found at:
+      <a href="https://www.cloudflare.com/cloudflare_customer_DPAv3-German.pdf"
+        >Cloudflare DPA</a
+      >
+    </p>
+    <p>
+      Cloudflare has implemented compliance measures for international data
+      transfers. These apply to all global activities where Cloudflare processes
+      personal data of individuals in the EU. These measures are based on the EU
+      Standard Contractual Clauses (SCCs). For more information, please see:
+      <a href="https://www.cloudflare.com/cloudflare_customer_SCCs.pdf">
+        https://www.cloudflare.com/cloudflare_customer_SCCs.pdf</a
+      >
+    </p>
   </div>
 </template>
