@@ -1,5 +1,5 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
+  <q-layout view="lHr lpR fFf">
     <q-header class="bg-transparent">
       <q-btn
         dense
