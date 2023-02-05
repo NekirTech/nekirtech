@@ -1,5 +1,5 @@
 <template>
-  <div id="privacy" class="text-white text-center q-px-xl q-mx-xl">
+  <div id="privacy" class="text-white text-center q-px-md q-mx-md">
     <h4 class="text-white q-ma-sm">Privacy</h4>
     <b>Data protection</b>
     <p>
@@ -31,9 +31,7 @@
       with the contact form, the data you provide is encrypted and securely sent
       via the service of EmailJS. For more information please look at the
       privacy policy of EmailJS at the following link:
-      <a href="https://www.emailjs.com/legal/privacy-policy/"
-        >https://www.emailjs.com/legal/privacy-policy/</a
-      >
+      <a href="https://www.emailjs.com/legal/privacy-policy/">Here</a>
     </p>
     <b>Cloudflare</b>
     <p>
@@ -75,7 +73,7 @@
       personal data of individuals in the EU. These measures are based on the EU
       Standard Contractual Clauses (SCCs). For more information, please see:
       <a href="https://www.cloudflare.com/cloudflare_customer_SCCs.pdf">
-        https://www.cloudflare.com/cloudflare_customer_SCCs.pdf</a
+        This</a
       >
     </p>
   </div>

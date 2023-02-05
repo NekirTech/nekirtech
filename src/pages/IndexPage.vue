@@ -1,7 +1,9 @@
 <template>
-  <q-parallax id="home" class="window-height">
-    <q-img src="Wortbildbarke_weisse_schrift.svg" style="width: 50%"></q-img>
-  </q-parallax>
+  <div id="home" class="row justify-center items-center window-height">
+    <div class="col-8">
+      <q-img src="Wortbildbarke_weisse_schrift.svg" fit="contain"></q-img>
+    </div>
+  </div>
   <MyParallax
     id="skills"
     headline="Skills"
