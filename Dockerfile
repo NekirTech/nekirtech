@@ -6,8 +6,6 @@ COPY package*.json ./
 RUN npm i -g @quasar/cli
 RUN npm install
 COPY . .
-ENV PORT=80
-EXPOSE 80
 RUN quasar build
 RUN ls -la ./dist/spa
 RUN cp -r ./dist/spa/* /usr/local/apache2/htdocs/
