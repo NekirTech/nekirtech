@@ -2,4 +2,4 @@ services:
   nekirtech:
     build: .
     ports:
-      - "80:79"
+      - "79:80"
